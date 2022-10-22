@@ -34,3 +34,14 @@ Adding start
 ```
 npm start
 ```
+In the browser
+```
+http://localhost:3000
+```
+
+## Middleware Express
+```js
+app.use(express.static('static'));
+```
+
+
